@@ -1,0 +1,230 @@
+[
+  {
+            "id": 1,
+            "chef_name": "John Doe",
+            "chef_picture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHwwfDB8fHww",
+            "years_of_experience": 10,
+            "number_of_recipes": 50,
+            "likes": 15000,
+            "chef_recipes": [
+              {
+                "recipe_id": 1,
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": ["200g spaghetti", "100g pancetta", "2 large eggs", "50g Pecorino cheese", "Black pepper"],
+                "cooking_method": "1. Cook spaghetti. 2. Fry pancetta. 3. Whisk eggs and cheese. 4. Combine all ingredients.",
+                "rating": 4.8
+              },
+              {
+                "recipe_id": 2,
+                "recipe_name": "Grilled Salmon with Lemon Butter",
+                "ingredients": ["4 salmon fillets", "2 lemons", "50g butter", "Fresh dill", "Salt and pepper"],
+                "cooking_method": "1. Preheat grill. 2. Season salmon. 3. Grill salmon. 4. Make lemon butter sauce.",
+                "rating": 4.7
+              },
+              {
+                "recipe_id": 3,
+                "recipe_name": "Caprese Salad",
+                "ingredients": ["Tomatoes", "Fresh mozzarella", "Fresh basil leaves", "Balsamic vinegar", "Olive oil"],
+                "cooking_method": "1. Slice tomatoes and mozzarella. 2. Arrange on a plate. 3. Drizzle with vinegar and oil. 4. Top with basil.",
+                "rating": 4.9
+              },
+              {
+                "recipe_id": 4,
+                "recipe_name": "Chocolate Fondue",
+                "ingredients": ["200g dark chocolate", "200ml double cream", "Assorted fruits for dipping"],
+                "cooking_method": "1. Melt chocolate and cream. 2. Serve with fruit for dipping.",
+                "rating": 4.6
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "chef_name": "Jane Smith",
+            "chef_picture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHwwfDB8fHww",
+            "years_of_experience": 8,
+            "number_of_recipes": 60,
+            "likes": 18000,
+            "chef_recipes": [
+              {
+                "recipe_id": 5,
+                "recipe_name": "Mushroom Risotto",
+                "ingredients": ["250g Arborio rice", "200g mushrooms", "1 onion", "1L vegetable broth", "50g Parmesan cheese"],
+                "cooking_method": "1. Sauté onions and mushrooms. 2. Add rice and broth. 3. Stir until creamy. 4. Add cheese.",
+                "rating": 4.7
+              },
+              {
+                "recipe_id": 6,
+                "recipe_name": "Grilled Chicken with Rosemary",
+                "ingredients": ["4 chicken breasts", "Fresh rosemary", "Garlic cloves", "Olive oil", "Salt and pepper"],
+                "cooking_method": "1. Marinate chicken. 2. Grill with rosemary. 3. Roast garlic. 4. Serve with garlic sauce.",
+                "rating": 4.8
+              },
+              {
+                "recipe_id": 7,
+                "recipe_name": "Caesar Salad",
+                "ingredients": ["Romaine lettuce", "Croutons", "Parmesan cheese", "Caesar dressing"],
+                "cooking_method": "1. Toss lettuce, croutons, and cheese. 2. Drizzle with dressing. 3. Toss to combine.",
+                "rating": 4.6
+              },
+              {
+                "recipe_id": 8,
+                "recipe_name": "Lemon Tart",
+                "ingredients": ["Pie crust", "4 lemons", "4 eggs", "200g sugar", "100g butter"],
+                "cooking_method": "1. Bake pie crust. 2. Make lemon curd. 3. Fill pie crust. 4. Bake until set.",
+                "rating": 4.9
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "chef_name": "Michael Johnson",
+            "chef_picture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHwwfDB8fHww",
+            "years_of_experience": 15,
+            "number_of_recipes": 70,
+            "likes": 22000,
+            "chef_recipes": [
+              {
+                "recipe_id": 9,
+                "recipe_name": "Beef Wellington",
+                "ingredients": ["500g beef fillet", "Puff pastry", "Mushrooms", "Prosciutto", "Egg wash"],
+                "cooking_method": "1. Sear beef. 2. Wrap in mushrooms and prosciutto. 3. Wrap in pastry. 4. Bake.",
+                "rating": 4.9
+              },
+              {
+                "recipe_id": 10,
+                "recipe_name": "Lobster Bisque",
+                "ingredients": ["2 lobsters", "1 onion", "2 carrots", "2 celery stalks", "1L fish stock"],
+                "cooking_method": "1. Cook lobster. 2. Sauté vegetables. 3. Add stock and lobster meat. 4. Blend.",
+                "rating": 4.7
+              },
+              {
+                "recipe_id": 11,
+                "recipe_name": "Tiramisu",
+                "ingredients": ["250g mascarpone cheese", "4 eggs", "100g sugar", "200ml espresso", "Cocoa powder"],
+                "cooking_method": "1. Whisk eggs and sugar. 2. Fold in mascarpone. 3. Layer with soaked ladyfingers and coffee. 4. Dust with cocoa.",
+                "rating": 4.8
+              },
+              {
+                "recipe_id": 12,
+                "recipe_name": "Steak with Red Wine Reduction",
+                "ingredients": ["2 steaks", "Red wine", "Beef stock", "Shallots", "Butter"],
+                "cooking_method": "1. Sear steaks. 2. Make red wine reduction. 3. Finish with butter and shallots.",
+                "rating": 4.8
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "chef_name": "Sarah Williams",
+            "chef_picture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHwwfDB8fHww",
+            "years_of_experience": 12,
+            "number_of_recipes": 45,
+            "likes": 17000,
+            "chef_recipes": [
+              {
+                "recipe_id": 13,
+                "recipe_name": "Shrimp Scampi",
+                "ingredients": ["250g linguine", "200g shrimp", "Garlic cloves", "White wine", "Butter"],
+                "cooking_method": "1. Cook linguine. 2. Sauté shrimp and garlic. 3. Deglaze with wine. 4. Toss with buttered pasta.",
+                "rating": 4.7
+              },
+              {
+                "recipe_id": 14,
+                "recipe_name": "Thai Green Curry",
+                "ingredients": ["Chicken thighs", "Coconut milk", "Green curry paste", "Vegetables", "Thai basil"],
+                "cooking_method": "1. Cook chicken in curry paste. 2. Add coconut milk and vegetables. 3. Simmer until cooked. 4. Garnish with basil.",
+                "rating": 4.9
+              },
+              {
+                "recipe_id": 15,
+                "recipe_name": "Lemon Garlic Roast Chicken",
+                "ingredients": ["Whole chicken", "Lemons", "Garlic bulbs", "Fresh thyme", "Olive oil"],
+                "cooking_method": "1. Stuff chicken with lemons and garlic. 2. Rub with oil and thyme. 3. Roast until golden.",
+                "rating": 4.8
+              },
+              {
+                "recipe_id": 16,
+                "recipe_name": "Molten Chocolate Lava Cake",
+                "ingredients": ["100g dark chocolate", "100g butter", "100g sugar", "2 eggs", "50g flour"],
+                "cooking_method": "1. Melt chocolate and butter. 2. Whisk in sugar, eggs, and flour. 3. Bake until edges are set.",
+                "rating": 4.9
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "chef_name": "David Lee",
+            "chef_picture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHwwfDB8fHww",
+            "years_of_experience": 9,
+            "number_of_recipes": 55,
+            "likes": 16000,
+            "chef_recipes": [
+              {
+                "recipe_id": 17,
+                "recipe_name": "Pasta Primavera",
+                "ingredients": ["250g penne pasta", "Assorted vegetables", "Olive oil", "Garlic", "Parmesan cheese"],
+                "cooking_method": "1. Cook pasta. 2. Sauté vegetables in oil and garlic. 3. Toss with pasta and cheese.",
+                "rating": 4.8
+              },
+              {
+                "recipe_id": 18,
+                "recipe_name": "Honey Glazed Salmon",
+                "ingredients": ["4 salmon fillets", "Honey", "Soy sauce", "Ginger", "Garlic"],
+                "cooking_method": "1. Mix honey, soy sauce, ginger, and garlic. 2. Glaze salmon. 3. Bake or grill until cooked.",
+                "rating": 4.7
+              },
+              {
+                "recipe_id": 19,
+                "recipe_name": "Mediterranean Quinoa Salad",
+                "ingredients": ["1 cup quinoa", "Cherry tomatoes", "Cucumber", "Kalamata olives", "Feta cheese"],
+                "cooking_method": "1. Cook quinoa. 2. Chop vegetables and cheese. 3. Toss all ingredients together.",
+                "rating": 4.9
+              },
+              {
+                "recipe_id": 20,
+                "recipe_name": "Lemon Garlic Butter Shrimp",
+                "ingredients": ["200g shrimp", "Butter", "Garlic cloves", "Lemon juice", "Parsley"],
+                "cooking_method": "1. Sauté shrimp in butter and garlic. 2. Add lemon juice and parsley. 3. Serve hot.",
+                "rating": 4.8
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "chef_name": "Emily Davis",
+            "chef_picture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHwwfDB8fHww",
+            "years_of_experience": 11,
+            "number_of_recipes": 65,
+            "likes": 19000,
+            "chef_recipes": [
+              {
+                "recipe_id": 21,
+                "recipe_name": "Chicken Alfredo",
+                "ingredients": ["300g fettuccine", "2 chicken breasts", "Heavy cream", "Parmesan cheese", "Butter"],
+                "cooking_method": "1. Cook pasta. 2. Sauté chicken. 3. Make cream sauce with butter and cheese. 4. Combine all ingredients.",
+                "rating": 4.8
+              },
+              {
+                "recipe_id": 22,
+                "recipe_name": "Roasted Vegetable Medley",
+                "ingredients": ["Assorted vegetables", "Olive oil", "Fresh herbs", "Salt and pepper"],
+                "cooking_method": "1. Toss vegetables in oil and herbs. 2. Roast until tender. 3. Season with salt and pepper.",
+                "rating": 4.7
+              },
+              {
+                "recipe_id": 23,
+                "recipe_name": "Blueberry Pancakes",
+                "ingredients": ["Pancake mix", "Blueberries", "Maple syrup", "Butter"],
+                "cooking_method": "1. Mix pancake batter. 2. Fold in blueberries. 3. Cook pancakes. 4. Serve with syrup and butter.",
+                "rating": 4.9
+              },
+              {
+                "recipe_id": 24,
+                "recipe_name": "Chocolate Chip Cookies",
+                "ingredients": ["Flour", "Butter", "Brown sugar", "Chocolate chips", "Eggs"],
+                "cooking_method": "1. Cream butter and sugar. 2. Add eggs and flour. 3. Fold in chocolate chips. 4. Bake until golden.",
+                "rating": 4.8
+              }
+            ]
+          } 
+]
